@@ -192,7 +192,7 @@ function App() {
 
             <UTCDatetime />
             <Link
-              href="https://github.com/RohanPhutke"
+              href="https://github.com/RohanPhutke/Weather-Forecasting-Project"
               target="_blank"
               underline="none"
               sx={{ display: 'flex' }}
